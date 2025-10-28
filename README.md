@@ -34,6 +34,7 @@ I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HT
 - 🔭 My current project is **Vue Component Library for future projects**
 - 🌱 I’m learning **Package Deployment and CICD Pipelines**
 - 💬 Ask me about **DevX Tools and Automation**
+---
 - ⚡ Fun fact: As technology has developed, so has the action to mime said technology, Children no longer use the thumb and pinky to gesture to make a call but rather put their full hand up to their ear. Children also no longer "Snap" a photo by making a rectangle and pressing the shutter but make a phone and "tap" to take the photo.
 - ⚡ Fun fact 2: Doom can run on as little as a pregenancy test and someone even made it in Typescript types! 
 
