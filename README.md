@@ -13,3 +13,5 @@ I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HT
 [portfolio-url]: https://kaelyx.dev
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kaelyx
+[codewars-shield]: https://img.shields.io/badge/-Code%20Wars-black.svg?style=for-the-badge&logo=codewars&colorB=555
+[codewars-url]: https://www.codewars.com/users/kaelyx
