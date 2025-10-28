@@ -1,6 +1,8 @@
 [![Kaelyx][logo]][logo-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![kaelyx.dev][portfolio-shield]][portfolio-url]
+[![CodeWars][codewars-shield]][codewars-url]
+
 --- 
 
 # Hello World!
