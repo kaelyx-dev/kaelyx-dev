@@ -23,7 +23,7 @@
 [![MariaDB][maria]][portfolio-url]
 [![Git][git]][portfolio-url]
 [![SVN][svn]][portfolio-url]
-[![Bash][bash]] [portfolio-url]
+[![Bash][bash]][portfolio-url]
 
 ---
 # Hello World!
