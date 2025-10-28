@@ -6,7 +6,8 @@
 --- 
 
 # Hello World!
-[![JavaScript][https://img.shields.io/badge/--?style=for-the-badge&logo=javascript&colorB=555][#]]
+[![JavaScript][js]][portfolio-url]
+
 I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HTML, PHP, Java, CSS, SCSS, LESS, Vue, Play, Core, Magento2, Wordpress, MySql, MariaDB, Bash, SVN, GIT, Jenkins etc... 
 
 [logo]: https://github.com/user-attachments/assets/76c67908-bd6c-403a-bc0f-478ff31db404
@@ -17,3 +18,7 @@ I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HT
 [linkedin-url]: https://linkedin.com/in/kaelyx
 [codewars-shield]: https://img.shields.io/badge/-Code%20Wars-black.svg?style=for-the-badge&logo=codewars&colorB=555
 [codewars-url]: https://www.codewars.com/users/kaelyx
+
+
+
+[js]: https://img.shields.io/badge/-JavaScript-black.svg?style=for-the-badge&logo=javascript&colorB=555
