@@ -5,9 +5,9 @@
 
 ---
 
-[JavaScript][js]
+[![JavaScript][js]][portfolio-url]
 [Python][python]
-[csharp][csharp]]
+[csharp][csharp]
 [![Java][java]]
 [![PHP][php]]
 [![HTML][html]]
