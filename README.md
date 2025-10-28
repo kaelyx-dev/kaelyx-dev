@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/76c67908-bd6c-403a-bc0f-478ff31db404" />
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/kaelyx/"/>
 --- 
 
 # Hello World!
