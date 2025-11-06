@@ -15,6 +15,7 @@
 [![LESS][less]][portfolio-url]
 [![SASS][scss]][portfolio-url]
 [![vue][vue]][portfolio-url]
+[![Nuxt][nuxt][portfolio-url]]
 [![react][react]][portfolio-url]
 [![Magento][magento]][portfolio-url]
 [![Wordpress][wordpress]][portfolio-url]
@@ -58,6 +59,7 @@ I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HT
 [less]: https://img.shields.io/badge/-LESS-black.svg?style=for-the-badge&logo=less&colorB=6a33a3
 [scss]: https://img.shields.io/badge/-SASS-black.svg?style=for-the-badge&logo=css&colorB=6a33a3
 [vue]: https://img.shields.io/badge/-Vue-black.svg?style=for-the-badge&logo=vue&colorB=6a33a3
+[nuxt]: https://img.shields.io/badge/-Nuxt-black.svg?style=for-the-badge&logo=nuxt&colorB=6a33a3
 [react]: https://img.shields.io/badge/-React-black.svg?style=for-the-badge&logo=react&colorB=6a33a3
 [magento]: https://img.shields.io/badge/-Magento-black.svg?style=for-the-badge&logo=magento&colorB=6a33a3
 [wordpress]: https://img.shields.io/badge/-Wordpress-black.svg?style=for-the-badge&logo=wordpress&colorB=6a33a3
