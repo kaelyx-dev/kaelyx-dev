@@ -15,7 +15,7 @@
 [![LESS][less]][portfolio-url]
 [![SASS][scss]][portfolio-url]
 [![vue][vue]][portfolio-url]
-[![Nuxt][nuxt][portfolio-url]]
+[![Nuxt][nuxt]][portfolio-url]
 [![react][react]][portfolio-url]
 [![Magento][magento]][portfolio-url]
 [![Wordpress][wordpress]][portfolio-url]
