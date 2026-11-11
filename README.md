@@ -32,12 +32,10 @@
 I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HTML, PHP, Java, CSS, SCSS, LESS, Vue, Play, Core, Magento2, Wordpress, MySql, MariaDB, Bash, SVN, GIT, Jenkins etc [insert more keywords and frameworks here]...
 
 ## About Me
-- 🔭 My current project is **Vue Component Library for future projects**
+- 🔭 My current project is **TS-Kit**, an exploration into DRY across projects, a function library to store functions I write a million times.
 - 🌱 I’m learning **Package Deployment and CICD Pipelines**
-- 💬 Ask me about **DevX Tools and Automation**
+- 💬 Ask me about **Workspace Automation**
 ---
-- ⚡ Fun fact: As technology has developed, so has the action to mime said technology, Children no longer use the thumb and pinky to gesture to make a call but rather put their full hand up to their ear. Children also no longer "Snap" a photo by making a rectangle and pressing the shutter but make a phone and "tap" to take the photo.
-- ⚡ Fun fact 2: Doom can run on as little as a pregenancy test and someone even made it in Typescript types! 
 
 [logo]: https://github.com/user-attachments/assets/76c67908-bd6c-403a-bc0f-478ff31db404
 [logo-url]: https://kaelyx.dev
