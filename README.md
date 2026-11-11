@@ -29,7 +29,7 @@
 ---
 # Hello World!
 
-I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HTML, PHP, Java, CSS, SCSS, LESS, Vue, Play, Core, Magento2, Wordpress, MySql, MariaDB, Bash, SVN, GIT, Jenkins etc...
+I am a Software ~~Developer~~ miscreant who ~~professionally~~ works with JS, HTML, PHP, Java, CSS, SCSS, LESS, Vue, Play, Core, Magento2, Wordpress, MySql, MariaDB, Bash, SVN, GIT, Jenkins etc [insert more keywords and frameworks here]...
 
 ## About Me
 - 🔭 My current project is **Vue Component Library for future projects**
